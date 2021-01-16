@@ -1,5 +1,14 @@
 package com.possible.web;
 
-public class RoomReservationWebControllerTest {
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class RoomReservationWebControllerTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
 
 }
